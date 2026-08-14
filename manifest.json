@@ -1,25 +1,6 @@
 {
-  "updated": "2026-08-14 21:18",
+  "updated": "2026-08-14 21:19",
   "minecraft": "1.21.11",
   "loader": "fabric",
-  "mods": [
-    {
-      "name": "fallingleaves-2.0.3+1.21.11.jar",
-      "sha1": "7cc068a9930b5bd446379a4ff33068808c5e5aa3",
-      "size": 181268,
-      "url": "https://cdn.modrinth.com/data/WhbRG4iK/versions/U7hPBr6x/fallingleaves-2.0.3%2B1.21.11.jar"
-    },
-    {
-      "name": "fabric-api-0.141.6+1.21.11.jar",
-      "sha1": "c98467cbbaf4d197377266795ae015f4130d65b6",
-      "size": 2426039,
-      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/6qAuTtLR/fabric-api-0.141.6%2B1.21.11.jar"
-    },
-    {
-      "name": "cloth-config-21.11.153-fabric.jar",
-      "sha1": "4c224606a963bce223db5b27edb4959ecf40d4ee",
-      "size": 1148427,
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/xuX40TN5/cloth-config-21.11.153-fabric.jar"
-    }
-  ]
+  "mods": []
 }
