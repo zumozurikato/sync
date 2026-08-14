@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14 22:13",
+  "updated": "2026-08-14 22:14",
   "minecraft": "1.21.11",
   "loader": "fabric",
   "mods": [
@@ -128,6 +128,12 @@
       "sha1": "9b546b2d1d06e7d8a03bf999ceeabb96a958b682",
       "size": 130664,
       "url": "https://cdn.modrinth.com/data/cl5ec0Qm/versions/Y01Y2Fyx/addonslib-fabric-1.21.11-1.2.jar"
+    },
+    {
+      "name": "mcw-holidays-1.1.2-mc1.21.11fabric.jar",
+      "sha1": "a6b39b49b2bd8af44556c4a2435edf6d729bf968",
+      "size": 983913,
+      "url": "https://cdn.modrinth.com/data/rH20L2Lp/versions/kAEQwCkH/mcw-holidays-1.1.2-mc1.21.11fabric.jar"
     }
   ]
 }
