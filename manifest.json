@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14 21:51",
+  "updated": "2026-08-14 21:59",
   "minecraft": "1.21.11",
   "loader": "fabric",
   "mods": [
@@ -50,6 +50,90 @@
       "sha1": "40a04ee2b4cb300b6b81b10a2103d45cd3201710",
       "size": 3344233,
       "url": "https://cdn.modrinth.com/data/7vxePowz/versions/yXs9snmN/FarmersDelight-1.21.11-3.6.13%2Brefabricated.jar"
+    },
+    {
+      "name": "mcw-bridges-3.1.2-mc1.21.11fabric.jar",
+      "sha1": "5215a9e43d875ff9ce58e02e134f518ea249c3c3",
+      "size": 690255,
+      "url": "https://cdn.modrinth.com/data/GURcjz8O/versions/VwHKtWix/mcw-bridges-3.1.2-mc1.21.11fabric.jar"
+    },
+    {
+      "name": "mcw-doors-1.1.5-mc1.21.11fabric.jar",
+      "sha1": "3e8eccf6a57a25f05e3e1fd97d1eb214ef0c45d3",
+      "size": 1383975,
+      "url": "https://cdn.modrinth.com/data/kNxa8z3e/versions/G56MgNgk/mcw-doors-1.1.5-mc1.21.11fabric.jar"
+    },
+    {
+      "name": "mcw-fences-1.2.1-mc1.21.11fabric.jar",
+      "sha1": "4a81210e213f6cac0fb94e545af2827685f4abbc",
+      "size": 648429,
+      "url": "https://cdn.modrinth.com/data/GmwLse2I/versions/KvcFYpyP/mcw-fences-1.2.1-mc1.21.11fabric.jar"
+    },
+    {
+      "name": "mcw-furniture-3.4.2-mc1.21.11fabric.jar",
+      "sha1": "28f0929b6005bc28b1bde475579c13020420ae9f",
+      "size": 2184868,
+      "url": "https://cdn.modrinth.com/data/dtWC90iB/versions/xhmciaUD/mcw-furniture-3.4.2-mc1.21.11fabric.jar"
+    },
+    {
+      "name": "mcw-holidays-1.1.2-mc1.21.11fabric.jar",
+      "sha1": "a6b39b49b2bd8af44556c4a2435edf6d729bf968",
+      "size": 983913,
+      "url": "https://cdn.modrinth.com/data/rH20L2Lp/versions/kAEQwCkH/mcw-holidays-1.1.2-mc1.21.11fabric.jar"
+    },
+    {
+      "name": "mcw-lights-1.1.5-mc1.21.11fabric.jar",
+      "sha1": "8fe0c30cdcfc7981247524d8363f495b5d554c98",
+      "size": 503747,
+      "url": "https://cdn.modrinth.com/data/w4an97C2/versions/DXV1gXS5/mcw-lights-1.1.5-mc1.21.11fabric.jar"
+    },
+    {
+      "name": "mcw-paintings-1.1.0-mc1.21.11fabric.jar",
+      "sha1": "580ba60f2811796b7906ebc7edea053849a0d1fd",
+      "size": 179390,
+      "url": "https://cdn.modrinth.com/data/okE6QVAY/versions/VPvufXfe/mcw-paintings-1.1.0-mc1.21.11fabric.jar"
+    },
+    {
+      "name": "mcw-paths-1.1.1-mc1.21.11fabric.jar",
+      "sha1": "883ff2c7d76c0dd1d9b1561b8296c460f81f554a",
+      "size": 742568,
+      "url": "https://cdn.modrinth.com/data/VRLhWB91/versions/RgddKk8C/mcw-paths-1.1.1-mc1.21.11fabric.jar"
+    },
+    {
+      "name": "mcw-roofs-2.3.2-mc1.21.11fabric.jar",
+      "sha1": "20e17e13370d47973a9757526c04e1230cfa902a",
+      "size": 1758326,
+      "url": "https://cdn.modrinth.com/data/B8jaH3P1/versions/KQqPCHJC/mcw-roofs-2.3.2-mc1.21.11fabric.jar"
+    },
+    {
+      "name": "mcw-stairs-1.0.2-mc1.21.11fabric.jar",
+      "sha1": "13cc04678a48f0c0f007747fce990078f4b9cab6",
+      "size": 518387,
+      "url": "https://cdn.modrinth.com/data/iP3wH1ha/versions/HePuVuYI/mcw-stairs-1.0.2-mc1.21.11fabric.jar"
+    },
+    {
+      "name": "mcw-trapdoors-1.1.5-mc1.21.11fabric.jar",
+      "sha1": "260352882e3674e11e77e9fbeaa51d0fb0a4bd17",
+      "size": 593448,
+      "url": "https://cdn.modrinth.com/data/n2fvCDlM/versions/smpXiL59/mcw-trapdoors-1.1.5-mc1.21.11fabric.jar"
+    },
+    {
+      "name": "mcw-windows-2.4.2-mc1.21.11fabric.jar",
+      "sha1": "3e52dcbdcfcc3145bd7e285a3354c2e484d9573c",
+      "size": 1289522,
+      "url": "https://cdn.modrinth.com/data/C7I0BCni/versions/uriWt4r9/mcw-windows-2.4.2-mc1.21.11fabric.jar"
+    },
+    {
+      "name": "mcwbetters-fabric-1.21.11-1.6.jar",
+      "sha1": "1198355c6542504717a001503e9436800dcf1f89",
+      "size": 12967362,
+      "url": "https://cdn.modrinth.com/data/YwnqoRu0/versions/XubfzTBN/mcwbetters-fabric-1.21.11-1.6.jar"
+    },
+    {
+      "name": "addonslib-fabric-1.21.11-1.2.jar",
+      "sha1": "9b546b2d1d06e7d8a03bf999ceeabb96a958b682",
+      "size": 130664,
+      "url": "https://cdn.modrinth.com/data/cl5ec0Qm/versions/Y01Y2Fyx/addonslib-fabric-1.21.11-1.2.jar"
     }
   ]
 }
