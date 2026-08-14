@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14 22:30",
+  "updated": "2026-08-14 22:35",
   "minecraft": "1.21.11",
   "loader": "fabric",
   "mods": [
@@ -236,12 +236,6 @@
       "sha1": "9b064c8bd1d6414549f6a1adcadf678ffa0c96c8",
       "size": 2370785,
       "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/nSB6xGOS/fzzy_config-0.7.6%2B1.21.11.jar"
-    },
-    {
-      "name": "KaleidoscopeDeco-1.4.jar",
-      "sha1": "a33a26d068d2b87ca8ba1e1aaf5b91210677e4a1",
-      "size": 5985095,
-      "url": "https://cdn.modrinth.com/data/FRT0g2ye/versions/97G9gQ3x/KaleidoscopeDeco-1.4.jar"
     },
     {
       "name": "ReddensStoneLanternsReconstructed-FABRIC-1.21.11-1.1.jar",
