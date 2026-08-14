@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14 21:30",
+  "updated": "2026-08-14 21:51",
   "minecraft": "1.21.11",
   "loader": "fabric",
   "mods": [
@@ -44,6 +44,12 @@
       "sha1": "6e31767a715f4faaff327e5ef2bb30b9f559eda3",
       "size": 1257272,
       "url": "files/YungsApi-1.21.11-Fabric-5.10.0-beta0.jar"
+    },
+    {
+      "name": "FarmersDelight-1.21.11-3.6.13+refabricated.jar",
+      "sha1": "40a04ee2b4cb300b6b81b10a2103d45cd3201710",
+      "size": 3344233,
+      "url": "https://cdn.modrinth.com/data/7vxePowz/versions/yXs9snmN/FarmersDelight-1.21.11-3.6.13%2Brefabricated.jar"
     }
   ]
 }
