@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14 22:35",
+  "updated": "2026-08-14 22:56",
   "minecraft": "1.21.11",
   "loader": "fabric",
   "mods": [
@@ -236,12 +236,6 @@
       "sha1": "9b064c8bd1d6414549f6a1adcadf678ffa0c96c8",
       "size": 2370785,
       "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/nSB6xGOS/fzzy_config-0.7.6%2B1.21.11.jar"
-    },
-    {
-      "name": "ReddensStoneLanternsReconstructed-FABRIC-1.21.11-1.1.jar",
-      "sha1": "1305b8da3528a3d95beb3409d1f836cb46e7599d",
-      "size": 935410,
-      "url": "https://cdn.modrinth.com/data/tQG2KWRe/versions/trnuniBa/ReddensStoneLanternsReconstructed-FABRIC-1.21.11-1.1.jar"
     }
   ]
 }
