@@ -1,6 +1,49 @@
 {
-  "updated": "2026-08-14 21:19",
+  "updated": "2026-08-14 21:30",
   "minecraft": "1.21.11",
   "loader": "fabric",
-  "mods": []
+  "mods": [
+    {
+      "name": "carryon-fabric-1.21.11-2.9.2.jar",
+      "sha1": "4bfba2e01b70b0f8f5c21964aa8c98681b572b13",
+      "size": 375642,
+      "url": "https://cdn.modrinth.com/data/joEfVgkn/versions/KOFV3duz/carryon-fabric-1.21.11-2.9.2.jar"
+    },
+    {
+      "name": "veinminer-fabric-2.11.2+1.21.11.jar",
+      "sha1": "fc629059db6fbbd731d0ba5be9866884bdf87523",
+      "size": 645863,
+      "url": "https://cdn.modrinth.com/data/OhduvhIc/versions/7c3RO0Qs/veinminer-fabric-2.11.2%2B1.21.11.jar"
+    },
+    {
+      "name": "fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar",
+      "sha1": "620cb137a9dc69ce86f3114f19d9eedab16366f5",
+      "size": 8076363,
+      "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/bdhiINYC/fabric-language-kotlin-1.13.13%2Bkotlin.2.4.10.jar"
+    },
+    {
+      "name": "fabric-api-0.141.6+1.21.11.jar",
+      "sha1": "c98467cbbaf4d197377266795ae015f4130d65b6",
+      "size": 2426039,
+      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/6qAuTtLR/fabric-api-0.141.6%2B1.21.11.jar"
+    },
+    {
+      "name": "geckolib-fabric-1.21.11-5.4.5.jar",
+      "sha1": "41cd2e142e48a8b6604d85764a6466fe5edb70c3",
+      "size": 822664,
+      "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/G1BvHQDL/geckolib-fabric-1.21.11-5.4.5.jar"
+    },
+    {
+      "name": "Ribbits-1.21.11-Fabric-4.1.4.jar",
+      "sha1": "889fdd5df8ad5f8a09ecdb45db6c7928bd4c0fb1",
+      "size": 2226489,
+      "url": "files/Ribbits-1.21.11-Fabric-4.1.4.jar"
+    },
+    {
+      "name": "YungsApi-1.21.11-Fabric-5.10.0-beta0.jar",
+      "sha1": "6e31767a715f4faaff327e5ef2bb30b9f559eda3",
+      "size": 1257272,
+      "url": "files/YungsApi-1.21.11-Fabric-5.10.0-beta0.jar"
+    }
+  ]
 }
