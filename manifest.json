@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14 22:10",
+  "updated": "2026-08-14 22:13",
   "minecraft": "1.21.11",
   "loader": "fabric",
   "mods": [
@@ -74,12 +74,6 @@
       "sha1": "28f0929b6005bc28b1bde475579c13020420ae9f",
       "size": 2184868,
       "url": "https://cdn.modrinth.com/data/dtWC90iB/versions/xhmciaUD/mcw-furniture-3.4.2-mc1.21.11fabric.jar"
-    },
-    {
-      "name": "mcw-holidays-1.1.2-mc1.21.11fabric.jar",
-      "sha1": "a6b39b49b2bd8af44556c4a2435edf6d729bf968",
-      "size": 983913,
-      "url": "https://cdn.modrinth.com/data/rH20L2Lp/versions/kAEQwCkH/mcw-holidays-1.1.2-mc1.21.11fabric.jar"
     },
     {
       "name": "mcw-lights-1.1.5-mc1.21.11fabric.jar",
